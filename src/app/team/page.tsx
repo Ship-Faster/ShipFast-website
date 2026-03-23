@@ -39,7 +39,7 @@ const team = [
     subtitle: "Frontend & Backend",
     avatar: "LK",
     bio: "Passionate about crafting seamless user experiences backed by scalable server-side systems. Turns complex requirements into elegant, maintainable code.",
-    skills: ["React", "Next.js", "NestJS", "TypeScript", "MongoDB"],
+    skills: ["Java", "SpringBoot", "React", "Angular", "NestJS", "TypeScript", "MongoDB"],
     icon: Code2,
     gradient: "from-blue-500 to-cyan-600",
     bgGradient: "from-blue-500/10 to-cyan-500/10",
