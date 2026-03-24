@@ -36,6 +36,7 @@ const categories = [
       { name: "NestJS", desc: "Enterprise Node framework", abbr: "Ne" },
       { name: "Python", desc: "Versatile scripting", abbr: "Py" },
       { name: "PostgreSQL", desc: "Relational database", abbr: "Pg" },
+      { name: "SpringBoot", desc: "Large Enterprise Applications", abbr: "Sp" },
     ],
   },
   {
