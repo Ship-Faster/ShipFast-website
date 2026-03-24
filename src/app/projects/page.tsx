@@ -62,7 +62,7 @@ const otherProjects = [
       "Progress analytics",
       "Live collaboration",
     ],
-    liveUrl: "https://nagasai-creator.onrender.com/auth",
+    liveUrl: "https://nagasai-creator.onrender.com/",
     status: "Live",
   },
 ];
