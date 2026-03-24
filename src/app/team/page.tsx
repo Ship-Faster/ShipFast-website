@@ -38,7 +38,7 @@ const team = [
     role: "Full Stack Developer",
     subtitle: "Frontend & Backend",
     avatar: "LK",
-    bio: "Passionate about crafting seamless user experiences backed by scalable server-side systems. Turns complex requirements into elegant, maintainable code.",
+    bio: "Full Stack Developer with strong skills in system architecture design and building scalable applications. I focus on creating clean backend systems, designing efficient APIs, and delivering smooth end-to-end solutions.Improving performance, and writing clean, maintainable code.",
     skills: ["Java", "SpringBoot", "React", "Angular", "NestJS", "TypeScript", "MongoDB"],
     icon: Code2,
     gradient: "from-blue-500 to-cyan-600",
